@@ -1,3 +1,17 @@
-img {
-    height: 200px !important;
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url("https://theplaylist.net/wp-content/uploads/2017/08/curb-your-enthusiasm-season-9-larry-david-1200x520.jpg");
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+}  
+.heroic {  
+    padding: 5.3em 0 0 0;
+    color: white;
+    
+}
+
+.heroicTwo {
+  color: white;
 }
